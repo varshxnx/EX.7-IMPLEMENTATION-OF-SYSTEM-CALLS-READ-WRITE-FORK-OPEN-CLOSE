@@ -51,7 +51,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-![7](https://github.com/varshxnx/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/122253525/8f74f5dc-a231-423e-8104-425c0f12223f)
+![image](https://github.com/varshxnx/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/122253525/cbfc2b17-d76b-4ebb-b4a8-30c20cb19450)
+
 
 
 ## RESULT:
