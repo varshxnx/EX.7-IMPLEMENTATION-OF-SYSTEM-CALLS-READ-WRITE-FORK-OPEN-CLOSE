@@ -51,8 +51,8 @@ return 0;
 }
 ```
 ## OUTPUT:
+![7](https://github.com/varshxnx/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/122253525/8f74f5dc-a231-423e-8104-425c0f12223f)
 
-![image](https://github.com/Shrruthilaya-Gangadaran/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/93427705/768ef793-80f6-4876-9fe1-3500fbaab3c9)
 
 ## RESULT:
 Thus, open, read, write, close , create , fork() system calls implemented successfully using C program.
